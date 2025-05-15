@@ -2,7 +2,7 @@ package JAVA_BASICO.Problemas_Iniciante;
 
 import java.util.Scanner;
 
-public class ExtremamenteBasico {
+public class ExtremamenteBasico_1001 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

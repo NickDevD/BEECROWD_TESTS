@@ -2,7 +2,7 @@ package JAVA_BASICO.Problemas_Iniciante;
 
 import java.util.Scanner;
 
-public class SalarioComBonus {
+public class SalarioComBonus_1009 {
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);
 

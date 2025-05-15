@@ -2,7 +2,7 @@ package JAVA_BASICO.Problemas_Iniciante;
 
 import java.util.Scanner;
 
-public class SomaSimples {
+public class SomaSimples_1003 {
     public static void main(String[] args) {
     Scanner in = new Scanner(System.in);
 
