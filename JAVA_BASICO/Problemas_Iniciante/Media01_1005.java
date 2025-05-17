@@ -8,7 +8,7 @@ public class Media01_1005 {
         double v1 = in.nextDouble();
         double v2 = in.nextDouble();
 
-        System.out.printf("MEDIA = %.5f ",media(v1,v2));
+        System.out.printf("MEDIA = %.5f%n",media(v1,v2));
 
         in.close();
     }
