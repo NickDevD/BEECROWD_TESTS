@@ -14,7 +14,7 @@ public class Tomadas_1930 {
 
         int totalAparelhos = (T1-1) + (T2-1) + (T3-1) + T4;
 
-        System.out.println(totalAparelhos + " aparelhos");
+        System.out.println(totalAparelhos);
 
     }
 }

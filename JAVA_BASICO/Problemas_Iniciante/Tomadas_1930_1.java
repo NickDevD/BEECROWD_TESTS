@@ -14,7 +14,7 @@ public class Tomadas_1930_1 {
             totalTomadas += reguas[tomada];
         }
 
-        System.out.println(totalTomadas + " tomadas");
+        System.out.println(totalTomadas);
         in.close();
     }
 }
